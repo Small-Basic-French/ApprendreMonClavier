@@ -1,4 +1,4 @@
-' LearnMyKeyboard - Yanos - February 2015 
+' LearnMyKeyboard - Yanos - February 2015  - CDL972-0
 '
 ' A small game for learning to write on keyboard
 
@@ -477,18 +477,18 @@ EndSub
 
 ' === Load the levels
 Sub LoadLevels
-  levels[1] = "nextLevel=10;lettersShown=3;letters=qsdfg;speed=1;"
-  levels[2] = "nextLevel=10;lettersShown=3;letters=hjklm;speed=1;"
-  levels[3] = "nextLevel=10;lettersShown=3;letters=azert;speed=1;"
+  levels[1] = "nextLevel=10;lettersShown=3;letters=asdfg;speed=1;"
+  levels[2] = "nextLevel=10;lettersShown=3;letters=hjkl\;;speed=1;"
+  levels[3] = "nextLevel=10;lettersShown=3;letters=qwert;speed=1;"
   levels[4] = "nextLevel=10;lettersShown=3;letters=yuiop;speed=1;"
-  levels[5] = "nextLevel=10;lettersShown=3;letters=wxcvb;speed=1;"
-  levels[6] = "nextLevel=10;lettersShown=3;letters=n,\;:!;speed=1;"
-  levels[7] = "nextLevel=15;lettersShown=3;letters=qsdfghjklm;speed=1;"
-  levels[8] = "nextLevel=15;lettersShown=3;letters=azertyuiop;speed=1;"
-  levels[9] = "nextLevel=15;lettersShown=3;letters=wxcvbn,\;:!;speed=1;"
-  levels[10] = "nextLevel=20;lettersShown=3;letters=azertqsdfgwxcvb;speed=1;"
-  levels[11] = "nextLevel=20;lettersShown=3;letters=yuiophjklmn,\;:!;speed=1;"
-  levels[12] = "nextLevel=25;lettersShown=3;letters=azertqsdfgwxcvbyuiophjklmn,\;:!;speed=1;"
+  levels[5] = "nextLevel=10;lettersShown=3;letters=zxcvb;speed=1;"
+  levels[6] = "nextLevel=10;lettersShown=3;letters=nm,./;speed=1;"
+  levels[7] = "nextLevel=15;lettersShown=3;letters=asdfghjkl\;;speed=1;"
+  levels[8] = "nextLevel=15;lettersShown=3;letters=qwertyuiop;speed=1;"
+  levels[9] = "nextLevel=15;lettersShown=3;letters=zxcvbnm,./;speed=1;"
+  levels[10] = "nextLevel=20;lettersShown=3;letters=qwertasdfgwxcvb;speed=1;"
+  levels[11] = "nextLevel=20;lettersShown=3;letters=yuiophjkl\;nm,./;speed=1;"
+  levels[12] = "nextLevel=25;lettersShown=3;letters=qwertasdfgzxcvbyuiophjkl\;nm,./;speed=1;"
   levelsCount = 12
 EndSub
 
