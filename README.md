@@ -8,7 +8,7 @@ Récupérer le code source du fichier "ApprendreMonClavier.sb" depuis GitHub ou 
 
 Le code source est entièrement en français, il est fourni dans un but éducatif, n'hésitez pas à l'étudier.
 
-# Lean My Keyboard
+# Learn My Keyboard
 
 A Small Basic game to learn writing on the keyboard.
 
